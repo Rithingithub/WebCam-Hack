@@ -6,7 +6,7 @@ Used libraries are ` OpenCV ` , ` emails ` , ` secure-smtplib ` and ` imghdr `. 
 
 <br><br>
 ## To install the executable file for windows , click the [download](https://github.com/Tina-2022/webcam-hack-rithingithub) button. You can also clone that repository and download manually. 
-### [OpenCv](https://pypi.org/project/opencv-python/)
+### [OpenCv](https://pypi.org/project/opencv-python/) , [imghdr](https://docs.python.org/3/library/imghdr.html#module-imghdr) , [Emails](https://pypi.org/project/emails/) , [smtp-lib](https://github.com/graingert/secure-smtplib)
 
 <Br>
 
