@@ -1,0 +1,4 @@
+opencv-python==4.7.0.68
+secure-smtplib
+emails
+numpy==1.24.1
